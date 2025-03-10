@@ -17,5 +17,5 @@ This setup provides a simple yet effective way to decode and transmit APRS signa
 
 73's
 
-[2E0UMR] (2e0umr.me)
+[2E0UMR](2e0umr.me)
 
