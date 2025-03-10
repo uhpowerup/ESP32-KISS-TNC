@@ -7,7 +7,7 @@ To build  KISS TNC, you’ll need a few essential components. This project is ba
 
 **Required Components:**
 - **ESP32 WROOM Dev Kit v4** – The heart of the TNC, handling signal processing and communication.  
-- **2x 1nF Ceramic Capacitors** – Used for signal filtering.  
+- **2x 10nF Ceramic Capacitors** – Used for signal filtering.  
 - **1x 1K Resistor** – Part of the circuit to ensure proper signal levels.  
 - **3x 10K Resistors** – Used for pull-up and pull-down configurations.  
 - **1x NPN Transistor (BC547 or 2N2222)** – Used for PTT (Push-To-Talk) control.  
