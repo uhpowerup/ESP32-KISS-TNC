@@ -1,4 +1,4 @@
-[V1.1](https://github.com/user-attachments/assets/52b3a351-6084-44c8-89fe-4a8a270c14be) is out.
+[V1.1](https://github.com/uhpowerup/ESP32-KISS-TNC/releases/tag/V1.1) is out.
 # ESP32-KISS-TNC
 Simple KISS TNC bases on ESP32
 There are many KISS TNCs available online, both commercially and as DIY projects. While most DIY options offer high-quality hardware, they often lack one critical component—open-source firmware. Many projects provide only the HEX file for pre-programmed microcontrollers, limiting the ability to modify or understand the underlying code.  
